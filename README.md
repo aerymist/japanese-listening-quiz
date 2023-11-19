@@ -16,13 +16,13 @@ An application that generates quizzes based on a random set of selected question
 ## Visual Guide
 
 ### Main Menu
-![alt text](main-menu.png)
+![alt text](example/main-menu.png)
 
 ### Quiz Window
-![alt text](quiz-window.png)
+![alt text](example/quiz-window.png)
 
 ### Score History 
-![alt text](score-history.png)
+![alt text](example/score-history.png)
 
 
 ## Known Issues
